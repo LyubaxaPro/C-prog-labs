@@ -1,0 +1,10 @@
+// dt file_in.txt
+Bercit
+Mert
+4 5 10 3
+Aribova
+Anna
+2 3 4 5
+Bercit
+Arslan
+7 8 23 5

@@ -1,0 +1,8 @@
+Input: 123
+Output: 123
+
+Input: 12a
+Output: Input error
+
+Input:-1
+Output:Input error

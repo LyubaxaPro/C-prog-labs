@@ -1,0 +1,4 @@
+// st file_in.txt
+Aribova
+Anna
+2 3 4 1

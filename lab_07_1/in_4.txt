@@ -1,0 +1,10 @@
+// ft file_in_out.txt "Be"
+Aribova
+Anna
+2 3 4 5
+Bercit
+Arslan
+7 8 23 5
+Bercit
+Mert
+4 5 10 3

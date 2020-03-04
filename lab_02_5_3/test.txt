@@ -1,0 +1,12 @@
+Input: 1 0.01
+Output: Input error
+
+Input: 0.01 0.005
+Output:1.000000
+       1.000050
+       0.000050
+       0.000050
+
+
+Input:-1
+Output:Input error
