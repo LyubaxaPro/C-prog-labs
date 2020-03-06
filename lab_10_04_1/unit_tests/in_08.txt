@@ -1,0 +1,18 @@
+IU7-33B
+Prohorova
+1999.08.10
+4 5 5 5 5
+IU7-31B
+Patrin
+1999.10.10
+2 3 5
+IU7-34B
+Anicin
+2002.12.19
+3 4 4 4
+IU7-31B
+Romich
+2002.12.12
+2 2 4
+none
+GRADE

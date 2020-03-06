@@ -1,0 +1,14 @@
+Cccc
+Dddddd
+1234.12.12
+2 4 5
+Cccc
+Aaa
+1234.12.12
+2 4.4 4.1
+Cccc
+Bbbb
+1234.12.12
+2 5 5
+none
+SURNAME
